@@ -1,0 +1,13 @@
+.btn-primary{
+    background-color: #570957;
+    border-color: #570957;
+}
+
+.btn-primary:hover{
+    background-color: #801280;
+    border-color: #801280;
+}
+
+.btn-lime{
+    background-color: #00cc00;
+}
